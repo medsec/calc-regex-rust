@@ -1,0 +1,7 @@
+[package]
+name = "calc_regex"
+version = "0.1.0"
+authors = ["Christopher Lübbemeier <christopher.luebbemeier@gmail.com>"]
+
+[dependencies]
+regex = "0.2"
